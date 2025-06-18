@@ -20,4 +20,4 @@ INSERT INTO books (title, author, publication_year, content) VALUES
 
 -- Insertar el libro "The Great Gatsby" de F. Scott Fitzgerald
 INSERT INTO books (title, author, publication_year, content) VALUES
-  ('The Great Gatsby', 'F. Scott Fitzgerald', 1925, 'The Great Gatsby, written by F. Scott Fitzgerald, is a novel set in the Roaring Twenties in the United States. The story is narrated by Nick Carraway, who becomes intrigued by his mysterious and wea')
+  ('The Great Gatsby', 'F. Scott Fitzgerald', 1925, 'The Great Gatsby, written by F. Scott Fitzgerald, is a novel set in the Roaring Twenties in the United States. The story is narrated by Nick Carraway, who becomes intrigued by his mysterious and wea');
